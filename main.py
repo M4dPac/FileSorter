@@ -1,6 +1,5 @@
 import os
 import shutil
-import time
 
 # Set up inner and outer paths
 FOLDER_PATH = 'D:/Загрузки/хром'  # Our folder with files to sort
