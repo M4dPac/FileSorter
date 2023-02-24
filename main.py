@@ -2,8 +2,8 @@ import os
 import shutil
 
 # Set up inner and outer paths
-FOLDER_PATH = 'D:/Загрузки/хром'  # Our folder with files to sort
-OUTER_PATH = 'D:/Загрузки'  # The folder in which our categories will be created
+FOLDER_PATH = 'C:/files'  # Our folder with files to sort
+OUTER_PATH = 'C:/sort_files'  # The folder in which our categories will be created
 OTHER = 'Other'  # For unknown extensions
 
 # Dict of extensions and corresponding folders
